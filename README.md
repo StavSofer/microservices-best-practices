@@ -1,0 +1,14 @@
+# microservices-best-practices
+-	Dotnet 5
+-	Microservices
+-	Docker
+-	Kubernetes
+-	Synchronous Http Restful API
+-	Synchronous gRPC & Protobufs
+-	Asynchronous Events Based Messaging using RabbitMQ
+-	Background Service
+-	API Gateway – Ingress Nginx
+-	Dependency Injection & Interface-Repository Approach
+-	Data Transfer Objects (DTOs)
+-	Auto Mapper
+-	Entity Framework Core
